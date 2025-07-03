@@ -49,4 +49,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrobanin/)](https://www.linkedin.com/in/leandrobanin/)
 [![Gmail Badge](https://img.shields.io/badge/zenaugusto98@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zenaugusto98@gmail.com)](mailto:zenaugusto98@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/leandrobanin)
+[![GitHub](https://img.shields.io/github/followers/leandrobanin?label=follow&style=social)](https://github.com/leandrobanin)
