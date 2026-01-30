@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Sistemas de Informação** na **Fundação Herminio Ometto** (Presencial | Noturno).
+- 🎓 Estudando **Sistemas de Informação** na **UNINTER** (Online).
 - 💼 Trabalhando como** Freelancer Home-Office**.
 - 🌱 Aprendendo mais sobre **Java** | **Python** | **Javascript**.
 
