@@ -38,11 +38,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/leandrobanin" title="Perfil do Leandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrobanin&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
