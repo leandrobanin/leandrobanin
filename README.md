@@ -2,9 +2,7 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Sistemas de Informação** na **UNINTER** (Online).
-- 🌱 Aprendendo mais sobre **Java** | **Python** | **Javascript**.
+- https://https://leandrobanin.github.io/
 
 ## Minhas Skills
 
