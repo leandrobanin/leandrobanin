@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- https://https://leandrobanin.github.io/
+- https://leandrobanin.github.io/
 
 ## Minhas Skills
 
