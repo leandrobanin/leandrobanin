@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=leandrobanin&color=006bed)
 
-## Sobre mim
+## Web Portfólio
 
 >https://leandrobanin.github.io/
 
