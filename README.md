@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=leandrobanin&color=006bed)
 
 ## Sobre mim
-```bash
-https://leandrobanin.github.io/
-```
+
+>https://leandrobanin.github.io/
+
 ## Minhas Skills
 
 **Aplicações e dados**
