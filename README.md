@@ -3,9 +3,12 @@
   <img src="https://img.shields.io/github/followers/leandrobanin?style=flat&color=red"/>
 </p>
 
+##
+
 <p align="center" style="font-size:28px; font-weight:600;">
   Yooo! 🤙 I'm Leandro A. Banin
 </p>
+
 
 <p align="center">
   Junior Software Developer driven by continuous learning and improvement.<br>
@@ -18,7 +21,7 @@
   </a>
 </p>
 
-<br>
+##
 
 <h3 align="center">🧠 Languages & Technologies</h3>
 
@@ -26,15 +29,11 @@
   <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,nodejs,react,java,maven,gradle,spring" />
 </p>
 
-<br>
-
 <h3 align="center">🗄️ Database & Data</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" />
 </p>
-
-<br>
 
 <h3 align="center">🛠️ Tools & Systems</h3>
 
@@ -42,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
 </p>
 
-<br>
+##
 
 <h3 align="center">📊 GitHub Stats</h3>
 
