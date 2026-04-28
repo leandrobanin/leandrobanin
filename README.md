@@ -1,44 +1,61 @@
-![](https://komarev.com/ghpvc/?username=leandrobanin&color=006bed)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leandrobanin&color=red&style=flat"/>
+  <img src="https://img.shields.io/github/followers/leandrobanin?style=flat&color=red"/>
+</p>
 
-## Web Portfólio
+<p align="center" style="font-size:28px; font-weight:600;">
+  Yooo! 🤙 I'm Leandro A. Banin
+</p>
 
->https://leandrobanin.github.io/
+<p align="center">
+  Junior Software Developer driven by continuous learning and improvement.<br>
+  I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
+</p>
 
-## Minhas Skills
+<p align="center">
+  <a href="https://leandrobanin.github.io/">
+    <img src="https://img.shields.io/badge/💼%20Check my Portfolio-4A4A4A?style=flat"/>
+  </a>
+</p>
 
-**Aplicações e dados**
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<h3 align="center">🧠 Languages & Technologies</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,nodejs,react,java,maven,gradle,spring" />
+</p>
 
-**Banco de Dados**
+<br>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
+<h3 align="center">🗄️ Database & Data</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" />
+</p>
 
-**DevOps**
+<br>
 
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<h3 align="center">🛠️ Tools & Systems</h3>
 
-**Ferramentas de desenvolvimento**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
+</p>
 
-![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<br>
 
+<h3 align="center">📊 GitHub Stats</h3>
 
-## Onde me encontrar
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrobanin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobanin&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrobanin/)](https://www.linkedin.com/in/leandrobanin/)
-[![Gmail Badge](https://img.shields.io/badge/zenaugusto98@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zenaugusto98@gmail.com)](mailto:zenaugusto98@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/leandrobanin?label=follow&style=social)](https://github.com/leandrobanin)
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandrobanin/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:zenaugusto98@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/leauguxto"><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Leehx"><img src="https://img.shields.io/badge/YouTube-1E1E1E?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
