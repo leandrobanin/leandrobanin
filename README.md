@@ -1,60 +1,45 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leandrobanin&color=red&style=flat"/>
-  <img src="https://img.shields.io/github/followers/leandrobanin?style=flat&color=red"/>
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##
-
-<p align="center" style="font-size:28px; font-weight:600;">
-  Yooo! 🤙 I'm Leandro A. Banin
-</p>
-
-
-<p align="center">
+<p align="left"> 
   Junior Software Developer driven by continuous learning and improvement.<br>
   I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
 </p>
 
-<p align="center">
-  <a href="https://leandrobanin.github.io/">
-    <img src="https://img.shields.io/badge/💼%20Check my Portfolio-4A4A4A?style=flat"/>
-  </a>
+<h3 align="left">🧠 Languages & Technologies</h3>
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,nodejs,react,java,maven,spring" />
 </p>
 
-##
+<h3 align="left">🗄️ Database & Data</h3>
 
-<h3 align="center">🧠 Languages & Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,nodejs,react,java,maven,gradle,spring" />
-</p>
-
-<h3 align="center">🗄️ Database & Data</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" />
 </p>
 
-<h3 align="center">🛠️ Tools & Systems</h3>
+<h3 align="left">🛠️ Tools & Systems</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
+</p>
+  
+</p>
+
+<h3 align="left">💼  Social Media</h3>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oleandrobanin@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[leandrobanin](https://www.linkedin.com/in/leandrobanin/)" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=[instagram](https://www.instagram.com/leauguxto)" alt="Instagram"/></a>
 </p>
 
 ##
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrobanin&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobanin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandrobanin/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:zenaugusto98@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/leauguxto"><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Leehx"><img src="https://img.shields.io/badge/YouTube-1E1E1E?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<p align="left">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false">    <img  alt="leandrobanin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandrobanin?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false" />  </a>
 </p>
