@@ -8,7 +8,7 @@
 <h3 align="left">🧠 Languages & Technologies</h3>
   
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,nodejs,react,java,maven,spring" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,java,maven,spring" />
 </p>
 
 <h3 align="left">🗄️ Database & Data</h3>
