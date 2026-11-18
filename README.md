@@ -43,3 +43,27 @@
 <p align="left">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false">    <img  alt="leandrobanin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandrobanin?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false" />  </a>
 </p>
+
+<!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrobanin/leandrobanin/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->
