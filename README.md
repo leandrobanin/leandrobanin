@@ -39,11 +39,6 @@
 ##
 
 <h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false">    <img  alt="leandrobanin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandrobanin?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false" />  </a>
-</p>
-
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
